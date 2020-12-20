@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/RegisterForm_Validation/static/css/main.f93e60ce.chunk.css",
+    "main.js": "/RegisterForm_Validation/static/js/main.3feca1dd.chunk.js",
+    "main.js.map": "/RegisterForm_Validation/static/js/main.3feca1dd.chunk.js.map",
+    "runtime-main.js": "/RegisterForm_Validation/static/js/runtime-main.4cebe2c4.js",
+    "runtime-main.js.map": "/RegisterForm_Validation/static/js/runtime-main.4cebe2c4.js.map",
+    "static/js/2.75e01045.chunk.js": "/RegisterForm_Validation/static/js/2.75e01045.chunk.js",
+    "static/js/2.75e01045.chunk.js.map": "/RegisterForm_Validation/static/js/2.75e01045.chunk.js.map",
+    "static/js/3.ea9ab496.chunk.js": "/RegisterForm_Validation/static/js/3.ea9ab496.chunk.js",
+    "static/js/3.ea9ab496.chunk.js.map": "/RegisterForm_Validation/static/js/3.ea9ab496.chunk.js.map",
+    "index.html": "/RegisterForm_Validation/index.html",
+    "static/css/main.f93e60ce.chunk.css.map": "/RegisterForm_Validation/static/css/main.f93e60ce.chunk.css.map",
+    "static/js/2.75e01045.chunk.js.LICENSE.txt": "/RegisterForm_Validation/static/js/2.75e01045.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4cebe2c4.js",
+    "static/js/2.75e01045.chunk.js",
+    "static/css/main.f93e60ce.chunk.css",
+    "static/js/main.3feca1dd.chunk.js"
+  ]
+}
